@@ -1,0 +1,20 @@
+THE Aforementioned Multiplayer Patch Package v1.1b for Duke Nukem Forever 2001!
+by THEBaratusII
+I also give credits to those fixing this game.
+
+NOTE : Due to mismatch problems, I'd advise everyone to check DukeForever.log first, because I was testing this with some friends and it was believed they installed a modified m_characters.Dtx (adding sunglasses) and had to use the original DTX file to finally connect.
+
+Changelogs
+
+v1.0
+- Included Ch0wW's dnf01_mp_110521.zip
+- Included a tweaked DukeForever.ini with adjustments that improves the game
+
+v1.1
+- Included Ch0wW's dnf01_mp_120521.zip
+- Included Engine.dll fix (fixes unstable framerates)
+- Included DukeColors v1 Skin Pack (Change Duke Nukem's Tanktop and Pants + Faces)
+- Added in a Renderers folder for swapping between the Direct3D8 & DXVK Vulkan methods.
+
+v1.1b (Hotfix)
+- Included Ch0wW's dnf01_mp_120521_hotfix.zip
