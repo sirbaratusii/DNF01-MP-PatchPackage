@@ -223,6 +223,22 @@ Object=(Name=c_characters.EDF_Sniper, Class=DukeMesh,Description="Rodriguez",Par
 Object=(Name=p_portraiticons.p_edfsniper1,Class=Texture,Description="Rodriguez Icon",  Category=MeshIcon, Parent="c_characters.EDF_Sniper")
 
 /--------------------------
+/ Civ Female
+Object=(Name=c_characters.NPC_F_civilian1,Class=DukeMesh,Description="Civ Female",Parent="dnGame.dnFemalePlayer")
+
+/--------------------------
+/ Schoolgirl
+Object=(Name=c_characters.NPC_F_Schlgirl,Class=DukeMesh,Description="Schoolgirl",Parent="dnGame.dnFemalePlayer")
+
+/--------------------------
+/ French Maid
+Object=(Name=c_characters.NPC_F_Frenchmaid,Class=DukeMesh,Description="French Maid",Parent="dnGame.dnFemalePlayer")
+
+/--------------------------
+/ Stripper
+Object=(Name=c_characters.Stripper_Jenny,Class=DukeMesh,Description="Stripper",Parent="dnGame.dnFemalePlayer")
+
+/--------------------------
 / General Graves
 Object=(Name=c_characters.General_Graves, Class=DukeMesh,Description="General Graves",Parent="dnGame.dnMalePlayer")
 // Icons
