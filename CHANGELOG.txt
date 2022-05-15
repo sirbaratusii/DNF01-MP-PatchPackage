@@ -20,9 +20,10 @@ v1.1b (Hotfix)
 - Included Ch0wW's dnf01_mp_120521_hotfix.zip
 
 v1.1c (Upcoming)
-- Included three of my converted and retexture usermaps of the following :
+- Included the following usermaps :
 DM-Area16 (My recreation of Area 15 from Blood originally for remade for Unreal)
-DM-DNFLiandri_v2.dnf (from Unreal Tournament)
-DM-DNFTempest338_RC.dnf (from Unreal Tournament Demo v338)
+DM-DNFLiandri_v2.dnf (Conversion from Unreal Tournament)
+DM-DNFTempest338_RC.dnf (Conversion from Unreal Tournament Demo v338)
+DM-DNFdust2_RC.dnf (Conversion from Counter Strike) (by slade)
 - Included the renamed maps of DM-FullHouse.dnf, DM-Codex][.dnf and DM_BellTollRemix.dnf
 - Female player models added to multiplayer.mds thanks to BathySalts!
