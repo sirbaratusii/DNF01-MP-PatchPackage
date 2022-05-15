@@ -1,4 +1,4 @@
-THE Aforementioned Multiplayer Patch Package v1.1b for Duke Nukem Forever 2001!
+THE Aforementioned Multiplayer Patch Package v1.1c for Duke Nukem Forever 2001!
 by THEBaratusII
 I also give credits to those fixing this game.
 
@@ -18,3 +18,11 @@ v1.1
 
 v1.1b (Hotfix)
 - Included Ch0wW's dnf01_mp_120521_hotfix.zip
+
+v1.1c (Upcoming)
+- Included three of my converted and retexture usermaps of the following :
+DM-Area16 (My recreation of Area 15 from Blood originally for remade for Unreal)
+DM-DNFLiandri_v2.dnf (from Unreal Tournament)
+DM-DNFTempest338_RC.dnf (from Unreal Tournament Demo v338)
+- Included the renamed maps of DM-FullHouse.dnf, DM-Codex][.dnf and DM_BellTollRemix.dnf
+- Female player models added to multiplayer.mds thanks to BathySalts!
