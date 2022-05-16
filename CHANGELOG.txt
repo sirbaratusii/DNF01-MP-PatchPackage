@@ -19,7 +19,8 @@ v1.1
 v1.1b (Hotfix)
 - Included Ch0wW's dnf01_mp_120521_hotfix.zip
 
-v1.1c (Upcoming)
+v1.2
+- Included all the .U files from my install to hope that will fix the package mismatch problems
 - Included the following usermaps :
 DM-Area16 (My recreation of Area 15 from Blood originally for remade for Unreal)
 DM-DNFLiandri_v2.dnf (Conversion from Unreal Tournament)
