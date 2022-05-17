@@ -14,6 +14,7 @@ v1.2a
   * Adding in missing sounds for the RPG.
   * Fixed Flamethrower ammo & pickup sounds. etc
   * Pissing mechanics disabled for the time-being.
+  * Weapon Swaying & Weapon Lag sliders
 - Added in the Full Color theme for SOS
 - Included the following usermaps :
 DM-WolfGrid (by Novak/YeOldeFellerNoob)
