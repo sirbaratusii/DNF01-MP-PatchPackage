@@ -6,6 +6,12 @@ NOTE : If you have any problems I'd advise everyone to check DukeForever.log fir
 
 Changelogs
 
+v1.2b (Hotfix)
+- Added the new dnsWeapn.dfx (because I forgot to add it in for v1.2a)
+- Added 333networks master server for uplinking
+- Included the usermap :
+DM-Field.dnf (by Damin72)
+
 v1.2a
 - Replaced Ch0wW's fixes with the ones from the DNF '01 Restoration Team, adding in the following:
   * HUD Scaling & Improvements (However the Sniper Rifle's zoom graphics are still need fixing.)
