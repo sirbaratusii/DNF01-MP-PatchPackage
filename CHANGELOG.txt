@@ -8,7 +8,7 @@ Changelogs
 
 v1.2a (WIP)
 - Replaced Ch0wW's fixes with the ones from the DNF '01 Restoration Team, adding in the following:
-  * HUD Scaling & Improvements
+  * HUD Scaling & Improvements (However the Sniper Rifle's zoom graphics are still need fixing.)
   * FOV Slider
   * Streamlined Hitsound support + New Hitsounds (hitsounds.mds)
   * Adding in missing sounds for the RPG.
