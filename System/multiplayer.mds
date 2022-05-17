@@ -276,6 +276,21 @@ Object=(Name=p_portraiticons.p_damguide1,Class=Texture,Description="Tim Icon",  
 / LizTrooper
 Object=(Name=c_characters.alien_Liztrooper, Class=DukeMesh,Description="Liztrooper",Parent="dnGame.dnMalePlayer")
 
+/ Anchorman
+Object=(Name=c_characters.NPC_M_Anchorman, Class=DukeMesh,Description="Anchorman",Parent="dnGame.dnMalePlayer")
+
+/--------------------------
+/ AlienGrey
+Object=(Name=c_characters.Alien_greygood, Class=DukeMesh,Description="Grey Good",Parent="dnGame.dnMalePlayer")
+Object=(Name=c_characters.Alien_greybad, Class=DukeMesh,Description="Grey Bad",Parent="dnGame.dnMalePlayer")
+
+/--------------------------
+/ George
+Object=(Name=c_characters.NPC_M_FatB,  Class=DukeMesh,Description="George",  Parent="dnGame.dnMalePlayer",ExtraData="\jaw\1.05\mouthcorner\0.07\Lip_L\0.5\Lip_U\0.75")
+// Icons
+Object=(Name=p_portraiticons.p_pgeorge1,Class=Texture,Description="George Icon",  Category=MeshIcon, Parent="c_characters.NPC_M_FatB")
+/--------------------------
+
 // Duke Nukem
 Object=(Name=c_characters.Duke, Class=DukeMesh, Description="Duke Nukem", Parent="dnGame.dnMalePlayer")
 
