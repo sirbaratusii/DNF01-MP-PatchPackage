@@ -6,7 +6,7 @@ NOTE : If you have any problems I'd advise everyone to check DukeForever.log fir
 
 Changelogs
 
-v1.2a (WIP)
+v1.2a
 - Replaced Ch0wW's fixes with the ones from the DNF '01 Restoration Team, adding in the following:
   * HUD Scaling & Improvements (However the Sniper Rifle's zoom graphics are still need fixing.)
   * FOV Slider
@@ -24,6 +24,7 @@ DM-EDFTrainingGrounds.dnf
 DM-e1l1.dnf
 Dm-Gibtown.dnf
 DM-DNFMorbias.dnf
+DM-Duke16.dnf (That one was by me!)
 
 v1.2
 - Included all the .U files from my install to hope that will fix the package mismatch problems
