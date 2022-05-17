@@ -1,23 +1,22 @@
-THE Aforementioned Multiplayer Patch Package v1.1c for Duke Nukem Forever 2001!
+THE Aforementioned Multiplayer Patch Package v1.2a for Duke Nukem Forever 2001!
 by THEBaratusII
 I also give credits to those fixing this game.
 
-NOTE : Due to mismatch problems, I'd advise everyone to check DukeForever.log first, because I was testing this with some friends and it was believed they installed a modified m_characters.Dtx (adding sunglasses) and had to use the original DTX file to finally connect.
+NOTE : If you have any problems I'd advise everyone to check DukeForever.log first.
 
 Changelogs
 
-v1.0
-- Included Ch0wW's dnf01_mp_110521.zip
-- Included a tweaked DukeForever.ini with adjustments that improves the game
+v1.2a (WIP)
+- Replaced Ch0wW's fixes with the ones from the DNF '01 Restoration Team, adding in the following:
+  * HUD Scaling & Improvements
+  * FOV Slider
+  * Streamlined Hitsound support + New Hitsounds (hitsounds.mds)
+  * Adding in missing sounds for the RPG.
+  * Fixed Flamethrower ammo & pickup sounds. etc
+- Included the following usermaps :
+DM-WolfGrid (by Novak/YeOldeFellerNoob)
+DM-DNFMaleVolence.dnf (Conversion from Unreal Tournament)
 
-v1.1
-- Included Ch0wW's dnf01_mp_120521.zip
-- Included Engine.dll fix (fixes unstable framerates)
-- Included DukeColors v1 Skin Pack (Change Duke Nukem's Tanktop and Pants + Faces)
-- Added in a Renderers folder for swapping between the Direct3D8 & DXVK Vulkan methods.
-
-v1.1b (Hotfix)
-- Included Ch0wW's dnf01_mp_120521_hotfix.zip
 
 v1.2
 - Included all the .U files from my install to hope that will fix the package mismatch problems
@@ -30,3 +29,18 @@ DM-DNFMorbias.dnf (Conversion from Unreal)
 DM-DNFTundra.dnf (Conversion from Unreal)
 - Included the renamed maps of DM-FullHouse.dnf, DM-Codex][.dnf and DM_BellTollRemix.dnf
 - Female player models added to multiplayer.mds thanks to BathySalts!
+
+
+v1.1b (Hotfix)
+- Included Ch0wW's dnf01_mp_120521_hotfix.zip
+
+
+v1.1
+- Included Ch0wW's dnf01_mp_120521.zip
+- Included Engine.dll fix (fixes unstable framerates)
+- Included DukeColors v1 Skin Pack (Change Duke Nukem's Tanktop and Pants + Faces)
+- Added in a Renderers folder for swapping between the Direct3D8 & DXVK Vulkan methods.
+
+v1.0
+- Included Ch0wW's dnf01_mp_110521.zip
+- Included a tweaked DukeForever.ini with adjustments that improves the game
