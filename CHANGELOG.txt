@@ -13,7 +13,7 @@ v1.2a (WIP)
   * Streamlined Hitsound support + New Hitsounds (hitsounds.mds)
   * Adding in missing sounds for the RPG.
   * Fixed Flamethrower ammo & pickup sounds. etc
-  * Fixed the pissing spectator bug
+  * Pissing mechanics disabled for the time-being.
 - Added in the Full Color theme for SOS
 - Included the following usermaps :
 DM-WolfGrid (by Novak/YeOldeFellerNoob)
@@ -22,6 +22,8 @@ DM-DNFMaleVolence.dnf (Conversion from Unreal Tournament)
 DM-FullHouse.dnf
 DM-EDFTrainingGrounds.dnf
 DM-e1l1.dnf
+Dm-Gibtown.dnf
+DM-DNFMorbias.dnf
 
 v1.2
 - Included all the .U files from my install to hope that will fix the package mismatch problems
