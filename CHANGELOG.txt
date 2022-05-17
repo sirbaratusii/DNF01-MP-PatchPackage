@@ -13,10 +13,14 @@ v1.2a (WIP)
   * Streamlined Hitsound support + New Hitsounds (hitsounds.mds)
   * Adding in missing sounds for the RPG.
   * Fixed Flamethrower ammo & pickup sounds. etc
+- Added in the Full Color theme for SOS
 - Included the following usermaps :
 DM-WolfGrid (by Novak/YeOldeFellerNoob)
 DM-DNFMaleVolence.dnf (Conversion from Unreal Tournament)
-
+- Included fixed versions (by Tamamo-no-Bae) of the following :
+DM-FullHouse.dnf
+DM-EDFTrainingGrounds.dnf
+DM-e1l1.dnf
 
 v1.2
 - Included all the .U files from my install to hope that will fix the package mismatch problems
