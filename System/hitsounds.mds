@@ -5,3 +5,7 @@ Object=(Name=a_generic.lights.Strobe02, Class=Sound, Description="Tick", Categor
 Object=(Name=dnGame.DukePlayer.HitNotificationSound, Class=Sound, Description="Wookie", Category="HitSound", Parent="dnGame.DukePlayer")
 Object=(Name=a_generic.Menu.QMenuHL1, Class=Sound, Description="Menu Beep", Category="HitSound", Parent="dnGame.DukePlayer")
 Object=(Name=a_generic.Telephone.PhoneDial9, Class=Sound, Description="Phone Dial", Category="HitSound", Parent="dnGame.DukePlayer")
+
+Object=(Name=a_hitsounds.Q3Hit, Class=Sound, Description="Quake 3", Category="HitSound", Parent="dnGame.DukePlayer")
+Object=(Name=a_hitsounds.CODHit, Class=Sound, Description="Call Of Duty", Category="HitSound", Parent="dnGame.DukePlayer")
+Object=(Name=a_hitsounds.TF2Hit, Class=Sound, Description="Team Fortress 2", Category="HitSound", Parent="dnGame.DukePlayer")
