@@ -1,4 +1,4 @@
-THE Aforementioned Multiplayer Patch Package v1.2a for Duke Nukem Forever 2001!
+THE Aforementioned Multiplayer Patch Package v1.2c for Duke Nukem Forever 2001!
 by THEBaratusII
 I also give credits to those fixing this game.
 
@@ -6,9 +6,26 @@ NOTE : If you have any problems I'd advise everyone to check DukeForever.log fir
 
 Changelogs
 
+v1.2c
+- Crosshair grows slightly more subtle.
+- Pissing mechanics is re-enabled,  
+- The defaults for viewmodels sway/lag is more subtle, and max value is clamped.
+- Temporary fix for the sniper scope. Stretches in widescreen.
+- New Hitsounds added by BathySalts. (TF2, Quake III and COD)
+- Removed DM-DNFdust2_RC.dnf and replaced it with DM-Dust2_v1.dnf (by slade)
+- Added in the following usermaps :
+DM-FamilyGuyV1.dnf (by slade)
+DM-DNFBodies.dnf
+DM-WonderlandV1.dnf (by slade)
+DM-SmugglerV1.dnf (by slade) (Conversion from Deus Ex)
+DM-KitchenV1.dnf (by slade) (Original by Drider)
+- Tweaked DukeForever.ini to enable Trilinear and Precache to reduce stuttering
+- 6 New Icons for Multiplayer
+*KNOWN ISSUE* - Hitsounds reset to Wookie sound in a map change. (This might be address in the next patch)
+
 v1.2b (Hotfix)
 - Added the new dnsWeapn.dfx (because I forgot to add it in for v1.2a)
-- Added 333networks master server for uplinking
+- Added 333networks master server for uplinking (I need a way to fetch multiple master servers.)
 - Included the usermap :
 DM-Field.dnf (by Damin72)
 
@@ -21,6 +38,7 @@ v1.2a
   * Fixed Flamethrower ammo & pickup sounds. etc
   * Pissing mechanics disabled for the time-being.
   * Weapon Swaying & Weapon Lag sliders
+  * Crosshair grows when firing.
 - Added in the Full Color theme for SOS
 - Included the following usermaps :
 DM-WolfGrid (by Novak/YeOldeFellerNoob)

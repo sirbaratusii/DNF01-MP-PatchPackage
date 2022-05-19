@@ -14,6 +14,12 @@ Object=(Name=dngame.FemalePlayerSounds, Class=VoicePack, Description="Female Voi
 
 // Generic Icons
 Object=(Name=p_portraiticons.p_nukesymbol1,Class=Texture,Description="Generic Icon",Category=DefaultIcon, Parent="ANYTHING" )
+Object=(Name=p_portraiticons2.p_duke1,Class=Texture,Description="Duke Nukem",Category=DefaultIcon, Parent="ANYTHING" )
+Object=(Name=p_portraiticons2.p_duke2,Class=Texture,Description="Duke Nukem II",Category=DefaultIcon, Parent="ANYTHING" )
+Object=(Name=p_portraiticons2.p_duke3d,Class=Texture,Description="Duke Nukem 3D",Category=DefaultIcon, Parent="ANYTHING" )
+Object=(Name=p_portraiticons2.p_zombieduke,Class=Texture,Description="Zombie Duke",Category=DefaultIcon, Parent="ANYTHING" )
+Object=(Name=p_portraiticons2.p_dickkickem,Class=Texture,Description="Dick Kickem",Category=DefaultIcon, Parent="ANYTHING" )
+Object=(Name=p_portraiticons2.p_dakkigun,Class=Texture,Description="Dakkigun",Category=DefaultIcon, Parent="ANYTHING" )
 
 // Blue and Grey EDF
 
