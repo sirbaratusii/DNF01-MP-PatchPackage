@@ -1,10 +1,17 @@
-THE Aforementioned Multiplayer Patch Package v1.2c for Duke Nukem Forever 2001!
+THE Aforementioned Multiplayer Patch Package v1.2d for Duke Nukem Forever 2001!
 by THEBaratusII
 I also give credits to those fixing this game.
 
 NOTE : If you have any problems I'd advise everyone to check DukeForever.log first.
 
 Changelogs
+
+v1.2d (Hotfix)
+- Fixed the hitsound reset bug
+- Changed the logo.bmp (oldlogo.bmp)
+- 13 New Icons for Multiplayer
+- Forgot to add the p_PortraitIcons2.Dtx in v1.2c, added now.
+
 
 v1.2c
 - Crosshair grows slightly more subtle.
