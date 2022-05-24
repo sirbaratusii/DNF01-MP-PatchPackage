@@ -1,17 +1,30 @@
-THE Aforementioned Multiplayer Patch Package v1.2d for Duke Nukem Forever 2001!
+THE Aforementioned Multiplayer Patch Package v1.2e for Duke Nukem Forever 2001!
 by THEBaratusII
 I also give credits to those fixing this game.
 
-NOTE : If you have any problems I'd advise everyone to check DukeForever.log first.
+NOTE : If you have any problems I'd advise everyone to check DukeForever.log first. Also it is not recommended for singleplayer!
 
 Changelogs
 
-v1.2d (Hotfix)
-- Fixed the hitsound reset bug
-- Changed the logo.bmp (oldlogo.bmp)
-- 13 New Icons for Multiplayer
-- Forgot to add the p_PortraitIcons2.Dtx in v1.2c, added now.
+v1.2e
+- Now using the Restoration's Team fixes again, hoping the stability is fixed. Also adding the following commits :
+* add SetHudScale - Xinerki
+* Added CTRL+C and CTRL+V to quick chat
+* Added classic scoreboard
+* Info for mismatches, downloading now shows
+* More changes etc etc.
+- Added in the following usermap:
+DM-Bean.dnf (by Damin72)
+- Included fixed versions (by Damin72) of the following :
+DM-FullHouse.dnf
+- Most of the .ini changes are moved to default.ini/defuser.ini
+- Changed logo.bmp (using oldlogo.bmp)
 
+v1.2d (Rollback Patch)
+- Reverted to Ch0wW's fixes due to instability with servers for the time being.
+- Added in the following usermap:
+DM-AdversityV1.dnf (Conversion from Rune) (by Slade)
+Added DukeColors to ServerPackages in DukeForever.ini to ensure the skins were working.
 
 v1.2c
 - Crosshair grows slightly more subtle.

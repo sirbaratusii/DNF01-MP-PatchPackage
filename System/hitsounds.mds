@@ -1,6 +1,7 @@
 [Public]
 //-----------
 // Hit Sounds
+Object=(Name=, Class=Sound, Description="None", Category="HitSound", Parent="dnGame.DukePlayer")
 Object=(Name=a_generic.lights.Strobe02, Class=Sound, Description="Tick", Category="HitSound", Parent="dnGame.DukePlayer")
 Object=(Name=dnGame.DukePlayer.HitNotificationSound, Class=Sound, Description="Wookie", Category="HitSound", Parent="dnGame.DukePlayer")
 Object=(Name=a_generic.Menu.QMenuHL1, Class=Sound, Description="Menu Beep", Category="HitSound", Parent="dnGame.DukePlayer")
