@@ -10,7 +10,6 @@ v1.2e
 - Now using the Restoration's Team fixes again, hoping the stability is fixed. Also adding the following commits :
 * add SetHudScale - Xinerki
 * Added CTRL+C and CTRL+V to quick chat
-* Added classic scoreboard
 * Info for mismatches, downloading now shows
 * More changes etc etc.
 - Added in the following usermap:
