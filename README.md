@@ -1,3 +1,5 @@
+# NOTE : Due to a huge burnout, I have no desire to maintain this.
+
 # DNF01-MP-PatchPackage
 Multiplayer Patch Package for Duke Nukem Forever 2001.
 Contains multiplayer fixes from the community + usermaps/addons.
